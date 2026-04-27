@@ -86,7 +86,7 @@ npm start
 
 ## 📸 Screenshots
 
-(Add screenshots here if you want)
+<img width="774" height="786" alt="Screenshot 2026-04-27 192250" src="https://github.com/user-attachments/assets/e9a03217-c6a1-4800-989a-679557fc8d9b" />
 
 ---
 
